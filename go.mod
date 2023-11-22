@@ -1,3 +1,3 @@
-module github.com/DMXMax/ghe-subsystem
+module github.com/DMXMax/evaluator-subsystem
 
 go 1.21.4
